@@ -1,0 +1,13 @@
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.exe
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.deps.json
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.runtimeconfig.json
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.runtimeconfig.dev.json
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.dll
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\bin\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.pdb
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.csprojAssemblyReference.cache
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.AssemblyInfoInputs.cache
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.AssemblyInfo.cs
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.dll
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.pdb
+C:\Users\Cleberson\Desktop\C#\Curso\Projeto_Fixacao_Enum\obj\Debug\netcoreapp3.1\Projeto_Fixacao_Enum.genruntimeconfig.cache
